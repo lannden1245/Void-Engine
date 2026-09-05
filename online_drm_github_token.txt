@@ -1,0 +1,11 @@
+{
+	"enabled": true,
+	"engine": "VoidEngine",
+	"file_type": "online_drm_check",
+	"game_version": "1.0.0",
+	"notes": "Copy this whole text into your GitHub raw Online DRM .txt file. Keep token private.",
+	"project": "Void-Engine",
+	"schema": 2,
+	"token": "e80abf008702222a7c39280ce1c3d3cce2333449e66dfa326c1bce50e741bc4a",
+	"updated_utc": "2026-09-05 07:01:26"
+}
